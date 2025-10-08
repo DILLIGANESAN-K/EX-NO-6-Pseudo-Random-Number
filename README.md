@@ -1,4 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
+# NAME : DILLIGANESAN K
+# REG NO : 212224100014
 
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
